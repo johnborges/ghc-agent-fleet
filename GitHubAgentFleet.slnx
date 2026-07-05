@@ -5,8 +5,8 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/src/">
-    <Project Path="src/GitHubAgentFleet.CLI/GitHubAgentFleet.CLI.csproj" />
     <Project Path="src/GitHubAgentFleet/GitHubAgentFleet.csproj" />
+    <Project Path="src/GitHubAgentFleet.CLI/GitHubAgentFleet.CLI.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/GitHubAgentFleet.Tests/GitHubAgentFleet.Tests.csproj" />
