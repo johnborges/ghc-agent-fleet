@@ -2,7 +2,7 @@
 POC project showcasing features of GitHub Copilot SDK.
 
 ## Solution
-- `GitHubAgentFleet.sln`
+- `GitHubAgentFleet.slnx`
 - `src/GitHubAgentFleet`
 - `src/GitHubAgentFleet.CLI`
 - `tests/GitHubAgentFleet.Tests`
